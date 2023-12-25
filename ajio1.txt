@@ -3,4 +3,8 @@ Helloo every one
 =======
 I am gonna to modify
 File 1 modifing
+<<<<<<< HEAD
 >>>>>>> eea3cd1 (commited)
+=======
+>>>>>>> eea3cd1 (commited)
+going to merge
