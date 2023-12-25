@@ -1,1 +1,6 @@
 Helloo every one
+<<<<<<< HEAD
+=======
+I am gonna to modify
+File 1 modifing
+>>>>>>> eea3cd1 (commited)
