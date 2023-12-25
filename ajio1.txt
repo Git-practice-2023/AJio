@@ -1,6 +1,7 @@
 Helloo every one
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 I am gonna to modify
 File 1 modifing
@@ -16,3 +17,6 @@ File 1 modifing
 >>>>>>> master
 =======
 >>>>>>> eea3cd1 (commited)
+=======
+I am gonna to modify
+>>>>>>> a9de08e (commit it)
