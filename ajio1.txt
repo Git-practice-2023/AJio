@@ -5,6 +5,7 @@ Helloo every one
 I am gonna to modify
 File 1 modifing
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> eea3cd1 (commited)
 =======
 >>>>>>> eea3cd1 (commited)
@@ -13,3 +14,5 @@ going to merge
 I am gonna to modify
 File 1 modifing
 >>>>>>> master
+=======
+>>>>>>> eea3cd1 (commited)
