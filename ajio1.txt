@@ -1,5 +1,6 @@
 Helloo every one
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 I am gonna to modify
 File 1 modifing
@@ -8,3 +9,7 @@ File 1 modifing
 =======
 >>>>>>> eea3cd1 (commited)
 going to merge
+=======
+I am gonna to modify
+File 1 modifing
+>>>>>>> master
